@@ -4,3 +4,4 @@ openpyxl==3.1.2
 pyrsistent==0.19.3
 yfinance==0.2.18
 plotly==5.14.1
+streamlit-autorefresh==0.0.1
